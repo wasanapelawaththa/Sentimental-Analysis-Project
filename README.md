@@ -27,6 +27,22 @@
 
 ---
 
+
+## 🧠 How It Works
+The app takes user-submitted text input and processes it through an NLP pipeline. Based on keyword polarity and linguistic patterns, it outputs the sentiment classification in real time.
+
+
+## ✅ To-Do / Future Improvements
+Add multilingual sentiment support
+
+Export analysis reports as CSV/PDF
+
+Integrate chart/graph visualization of results
+
+Add user authentication for personalized dashboards
+
+---
+
 ## 📦 Installation & Setup
 
 To run the project locally:
@@ -45,17 +61,4 @@ pip install -r requirements.txt
 
 # Run the Flask server
 python app.py
-
-## 🧠 How It Works
-The app takes user-submitted text input and processes it through an NLP pipeline. Based on keyword polarity and linguistic patterns, it outputs the sentiment classification in real time.
-
-
-## ✅ To-Do / Future Improvements
-Add multilingual sentiment support
-
-Export analysis reports as CSV/PDF
-
-Integrate chart/graph visualization of results
-
-Add user authentication for personalized dashboards
 
